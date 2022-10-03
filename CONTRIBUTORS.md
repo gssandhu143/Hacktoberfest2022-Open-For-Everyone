@@ -112,4 +112,5 @@
 - <a href="https://github.com/Darainn" target="_blank">Syed Darain</a>
 
 - <a href="https://github.com/CaptIndhuja" target="_blank">Capt Indhuja</a>
+- <a href="https://github.com/gssandhu143" target="_blank">Gurpreet Singh</a>
 
